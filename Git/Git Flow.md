@@ -21,7 +21,7 @@ Git hook 스크립트를 이용하여 `master` 브랜치에 커밋을 할 때마
 
 일반적으로 사용되는 브랜치는 아래와 같다
 
-- Feature branch
+- [Feature branch](#featurebranch)
 - Release branch
 - Hotfix branch
 
