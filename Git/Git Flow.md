@@ -1,6 +1,6 @@
 # Git Flow
 
-git-flow는 Vincent Driessen의 브랜칭 모델을 위한 고수준 저장소 작업을 제공하는 git의 확장이다[1].
+git-flow는 Vincent Driessen의 브랜칭 모델을 위한 고수준 저장소 작업을 제공하는 git의 확장이다[1](#reference).
 
 ## Main branch
 
