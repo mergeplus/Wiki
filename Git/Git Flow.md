@@ -21,9 +21,9 @@ Git hook 스크립트를 이용하여 `master` 브랜치에 커밋을 할 때마
 
 일반적으로 사용되는 브랜치는 아래와 같다
 
-- [Feature branch](#feature_branch)
-- [Release branch](#release_branch)
-- [Hotfix branch](#hotfir_branch)
+- [Feature branch](#feature-branch)
+- [Release branch](#release-branch)
+- [Hotfix branch](#hotfir-branch)
 
 이러한 브랜치들은 문명한 목적을 가지고 있어야 하며, 분기 및 병합에 대상이 명확해야한다. 
 
