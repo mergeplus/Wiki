@@ -57,7 +57,7 @@ $ git push origin develop
 
 —no-ff 플래그를 사용하면 fast-forward(빠르게?) 머지할 수 있으며, 이전 feature에 대한 히스토리를 그룹화하여 남길 수 있도록 해준다. 아래의 그림은 —no-ff 플래그의 사용 여부에 따른 차이를 보여준다
 
-![Git%20Flow%20f998f84970444d39bd8d0f8fa9d52dd4/Untitled.png](Git%20Flow%20f998f84970444d39bd8d0f8fa9d52dd4/Untitled.png)
+![image1](https://github.com/mergeplus/Wiki/blob/main/Git/gitflow_img1.png)
 
 오른쪽의 경우 어떤 커밋들이 병합되었는지에 대한 git history를 확인하는 것이 불가능하다. 따라서 이 경우에는 모든 로그 메시지를 분석하여 어떤 feature에 대한 작업이 이루어졌는지를 수동으로 확인해야 하는 불편함이 있다.
 
@@ -128,7 +128,7 @@ $ git branch -d release-1.2
 
 `hotfix` 브랜치는 의도치 않게 새로운 production release를 만든다는 점에서 `release` 브랜치와 비슷한 면이 있다. 이 브랜치는 현재 배포된 버전에서 **긴급하게 발견된 오류 또는 의도치 않은 상황에 대한 수정**이 필요할 경우 사용한다.
 
-![Git%20Flow%20f998f84970444d39bd8d0f8fa9d52dd4/Untitled%201.png](Git%20Flow%20f998f84970444d39bd8d0f8fa9d52dd4/Untitled%201.png)
+![image2](https://github.com/mergeplus/Wiki/blob/main/Git/gitflow_img2.png)
 
 위의 그림에서 확인할 수 있듯이, 릴리즈 브랜치와 비슷하지만 정말 긴급한 수정사항이 있을 떄 `master` 브랜치에서 분기하여 작업 후 `develop` 및 `master` 브랜치로 머지하게 된다.
 
