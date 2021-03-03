@@ -9,9 +9,9 @@
 
 ### Common
 
-![common_img1](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/common_img1.png)
+<img src="https://github.com/mergeplus/Wiki/blob/main/MesiterTask/common_img1.png" width="70%">
 
-![common_img2](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/common_img2.png)
+<img src="https://github.com/mergeplus/Wiki/blob/main/MesiterTask/common_img2.png" width="70%">
 
 먼저 대시보드 우측 상단 프로필 아이콘을 선택하여 `내 계정`로 이동합니다.
 좌측메뉴에서`MeisterTask > 연동`을 선택하여 연동하고 싶은 툴을 선택하여 연동합니다.
@@ -24,16 +24,16 @@ Github을 연동하며 무엇이 좋냐?
 
 MeisterTask 가이드에도 설명 되어있겠지만 연동하는 방법과 특수 커밋메시지를 사용하는 방법에 대해서 설명드리겠습니다.
 
-![github_img1](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img1.png)
+<img src="https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img1.png" width="70%">
 
 먼저 연동할 Github 계정을 인증해주도로 합시다
 
-![github_img2](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img2.png)
+<img src="https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img2.png" width="70%">
 
 Github 계정인증이 완료되면 위 화면처럼 `설정 추가` 버튼이 활성화 됩니다
 `설정 추가` 버튼을 눌러줍시다
 
-![github_img3](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img3.png)
+<img src="https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img3.png" width="70%">
 
 사용할 MeisterTask의 Project와 Github의 Repository를 연결해주면 끝입니다
 
@@ -41,7 +41,7 @@ Github 계정인증이 완료되면 위 화면처럼 `설정 추가` 버튼이 �
 TaskID는 작업마다 유니크하게 생성되는 키입니다
 이 TaskID를 알아야 특수 커밋메시지를 사용할 수 있습니다
 
-![taskid_img1](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/taskid_img1.png)
+<img src="https://github.com/mergeplus/Wiki/blob/main/MesiterTask/taskid_img1.png" width="70%">
 
 이렇게 작업을 선택하시면 우측 하단에 `작업 ID`라고 표기되어있는데요 이것이 바로 TaskID 입니다
 그리고 저 부분을 클릭하면 클립보드에 복사할 수 있어요!
@@ -58,7 +58,7 @@ $ git commit -m 'message #goO8aDON:1'
 요렇게 커밋을 해주고 Github Repository에 푸시를 해주면 
 짜잔!
 
-![taskid_img2](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/taskid_img2.png)
+<img src="https://github.com/mergeplus/Wiki/blob/main/MesiterTask/taskid_img2.png" width="70%">
 
 이렇게 자동으로 처리되고 우측 메뉴에 연동이라는 항목이 생기고
 저 항목에서 어떤 특수 커밋메시지를 실행하였는지 확인할 수 있습니다
