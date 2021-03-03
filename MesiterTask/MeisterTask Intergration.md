@@ -9,25 +9,25 @@
 
 ### Common
 
-![common_img1](/Users/tophun/Desktop/common_img1.png)
+![common_img1](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/common_img1.png)
 
-![common_img2](/Users/tophun/Desktop/common_img2.png)
+![common_img2](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/common_img2.png)
 
 먼저 대시보드 우측 상단 프로필 아이콘을 선택하여 `내 계정`로 이동합니다.
 좌측메뉴에서`MeisterTask > 연동`을 선택하여 연동하고 싶은 툴을 선택하여 연동합니다.
 
 ### GitHub
 
-![github_img1](/Users/tophun/Desktop/github_img1.png)
+![github_img1](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img1.png)
 
 연동할 GitHub 계정을 인증합니다.
 
-![github_img2](/Users/tophun/Desktop/github_img2.png)
+![github_img2](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img2.png)
 
 GitHub 계정인증이 완료되면 위 화면처럼 `설정 추가` 버튼이 활성화 됩니다.
 `설정 추가` 버튼을 눌러줍니다.
 
-![github_img3](/Users/tophun/Desktop/github_img3.png)
+![github_img3](https://github.com/mergeplus/Wiki/blob/main/MesiterTask/github_img3.png)
 
 사용할 MeisterTask의 Project와 GitHub의 Repository를 연결해줍니다.
 이렇게 프로젝트와 레파지토리를 설정하면 특수커밋을 이용하면 작업을 완료처리하거나 작업의 체크리스트를 완료처리 할 수 있습니다.
