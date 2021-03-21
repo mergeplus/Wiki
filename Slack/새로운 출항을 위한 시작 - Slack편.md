@@ -23,6 +23,8 @@ Slack의 데스크톱 및 모바일 앱을 다운로드하려면  [slack.com/dow
 
 회사가 확장될 때 프로필은 누가 누구인지 구분할 수 있는 가장 쉬운 방법입니다. 얼굴이 포함된 사진으로 Slack 프로필을 작성하면 다른 크루들이 알아보기 쉬워요.
 
+<img src="https://github.com/mergeplus/Wiki/blob/main/Slack/slack_profile.png" width="50%">
+
 - 프로필 작성 규칙
 
 ```
@@ -30,7 +32,9 @@ Slack의 데스크톱 및 모바일 앱을 다운로드하려면  [slack.com/dow
 성명: 실명
 표시 이름: 닉네임
 맡고 있는 일: 담당업무
-전화번호: 휴대폰 번호 
+전화번호: 휴대폰 번호
+팀: 소속팀
+위치: 근무하는 위치
 ```
 
 ---
